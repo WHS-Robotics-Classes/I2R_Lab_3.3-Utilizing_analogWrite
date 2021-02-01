@@ -11,12 +11,12 @@ Read [this reference page](https://www.arduino.cc/reference/en/language/function
 ### Step Three: Write the Code
 Write a sketch that makes the lights on your breadboard alternate continuously between three levels of light.  
 - Red LED
- - full power
- - one second delay
- - 40% power
- - one second delay
- - 0% power
- - one second delay
+  - full power
+  - one second delay
+  - 40% power
+  - one second delay
+  - 0% power
+  - one second delay
 - Green LED (repeat the cycle)
 - Blue LED (repeat the cycle)
 
