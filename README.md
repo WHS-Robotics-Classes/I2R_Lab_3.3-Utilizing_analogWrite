@@ -22,7 +22,7 @@ Write a sketch that makes the lights on your breadboard alternate continuously b
 
 Repeat this forever.
 
-There is some starte code above to help.
+There is some starter code above to help.
 
 See the video here for an example: 
 
