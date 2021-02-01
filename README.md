@@ -25,6 +25,7 @@ Repeat this forever.
 There is some starte code above to help.
 
 See the video here for an example: 
+
 [![Lab 3.3 Prototype](http://img.youtube.com/vi/riyNHcp8Qs4/0.jpg)](https://www.youtube.com/watch?v=riyNHcp8Qs4 "Lab 3.3 Prototype")
 
 ### Step Four: Debug and Submit
