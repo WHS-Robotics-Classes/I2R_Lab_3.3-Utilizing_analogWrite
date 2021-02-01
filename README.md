@@ -9,7 +9,19 @@ Create the following prototype on your breadboard:
 Read [this reference page](https://www.arduino.cc/reference/en/language/functions/analog-io/analogwrite/) about the new function we are learning.  Pay attention to the difference between `digitalWrite()` and `analogWrite()` (What is the primary difference in the code and which pins may be used with this function?)
 
 ### Step Three: Write the Code
-Write a sketch that makes the lights on your breadboard alternate continuously between three levels of light.  When red is fully lit, green is off and blue is at 50% power.  When green is fully lit, blue is off and red is at 50% power.  When blue is fully lit, red is off and green is at 50% power.  Put a one second delay between each step.
+Write a sketch that makes the lights on your breadboard alternate continuously between three levels of light.  
+- Red LED
+ - full power
+ - one second delay
+ - 40% power
+ - one second delay
+ - 0% power
+ - one second delay
+- Green LED (repeat the cycle)
+- Blue LED (repeat the cycle)
+
+There is some starte code above to help.
+
 See the video here for an example: 
 
 ### Step Four: Debug and Submit
