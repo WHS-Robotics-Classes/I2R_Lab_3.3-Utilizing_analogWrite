@@ -25,10 +25,6 @@ Repeat this forever.
 
 There is some starter code above to help.
 
-See the video here for an example: 
-
-[![Lab 3.3 Prototype](http://img.youtube.com/vi/riyNHcp8Qs4/0.jpg)](https://www.youtube.com/watch?v=riyNHcp8Qs4 "Lab 3.3 Prototype")
-
 ### Step Four: Debug and Submit
 Make sure your prototype behaves the same way as the one in the video. As in the previous assignment, make a new file here on GitHub. Name it 3.3_Utilizing_analogWrite.ino and Commit it to the repository.
 
